@@ -40,6 +40,8 @@ The dataset includes fields capturing:
 
 The project processes and visualizes the NYC taxi trip data, focusing on various metrics and trends to derive actionable insights. 
 
+![alt text](https://raw.githubusercontent.com/kartikay-261/Uber-Data-pipeline/main/data_model.jpeg)
+
 ## Contributing
 
 We welcome contributions to this project. Feel free to explore, contribute, and collaborate on our GitHub repository:
