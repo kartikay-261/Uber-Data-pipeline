@@ -4,6 +4,8 @@
 
 This project involves analyzing NYC Yellow and Green taxi trip records using a modern data pipeline and visualization tools. The objective is to extract, transform, load (ETL), and visualize the data to uncover meaningful insights.
 
+![alt text](https://github.com/[kartikay-261]/[Uber-Data-pipeline]/architecture.jpg?raw=true)
+
 ## Technology Used
 
 ### Programming Language
