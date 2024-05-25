@@ -51,3 +51,6 @@ We welcome contributions to this project. Feel free to explore, contribute, and 
 
 For any queries or contributions, please reach out via our GitHub repository.
 
+---
+
+Happy Coding!
