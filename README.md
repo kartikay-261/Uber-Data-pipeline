@@ -31,7 +31,6 @@ The dataset includes fields capturing:
 - Driver-reported passenger counts
 
 ### Dataset Sources
-- **Main Dataset**: [Uber ETL Pipeline Data Engineering Project](https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv)
 - **NYC TLC Trip Record Data**: [Website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - **Data Dictionary**: [Download PDF](https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf)
 
@@ -48,6 +47,3 @@ We welcome contributions to this project. Feel free to explore, contribute, and 
 
 For any queries or contributions, please reach out via our GitHub repository.
 
----
-
-Happy Coding!
