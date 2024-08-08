@@ -46,11 +46,3 @@ The project processes and visualizes the NYC taxi trip data, focusing on various
 
 We welcome contributions to this project. Feel free to explore, contribute, and collaborate on our GitHub repository:
 - [mage-ai](https://github.com/mage-ai/mage-ai)
-
-## Contact
-
-For any queries or contributions, please reach out via our GitHub repository.
-
----
-
-Happy Coding!
